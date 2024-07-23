@@ -5,8 +5,8 @@ package java_kadai.kadai_018;
  */
 public class KatoTaro_Chapter18 extends Kato_Chapter18 {
   // 名フィールドの値をセット
-  public void setGivenName(String name) {
-    super.givenName = name;
+  public void setGivenName() {
+    super.givenName = "太郎";
   }
 
   public void eachIntroduce() {
